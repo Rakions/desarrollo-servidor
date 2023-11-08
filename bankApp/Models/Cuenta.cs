@@ -1,4 +1,5 @@
 namespace Models;
+using Newtonsoft.Json;
 public class Cuenta
 {
     public int NumeroCuenta { get; set; }
@@ -53,9 +54,9 @@ public class Cuenta
     {
         foreach (var t in MovimientosLista)
         {
-            Console.WriteLine(t.ToString());
             t.EscribirTransaccion();
         }
+        System.Console.WriteLine(File.ReadAllText("./transacciones.json"));
     }
 
     public override string ToString()

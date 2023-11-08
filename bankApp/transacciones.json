@@ -1,17 +1,32 @@
 [
   {
-    "FechaTransaccion": "2023-11-08T17:48:13.6404532+01:00",
+    "FechaTransaccion": "2023-11-08T17:54:09.4959586+01:00",
     "NumeroCuenta": 1000,
     "Cantidad": 1000.0
   },
   {
-    "FechaTransaccion": "2023-11-08T17:48:13.6404532+01:00",
-    "NumeroCuenta": 1000,
-    "Cantidad": 1000.0
-  },
-  {
-    "FechaTransaccion": "2023-11-08T17:48:19.7294481+01:00",
+    "FechaTransaccion": "2023-11-08T17:54:10.4571793+01:00",
     "NumeroCuenta": 1000,
     "Cantidad": -300.0
+  },
+  {
+    "FechaTransaccion": "2023-11-08T17:54:19.144406+01:00",
+    "NumeroCuenta": 1000,
+    "Cantidad": 1000.0
+  },
+  {
+    "FechaTransaccion": "2023-11-08T17:54:20.9805885+01:00",
+    "NumeroCuenta": 1000,
+    "Cantidad": -300.0
+  },
+  {
+    "FechaTransaccion": "2023-11-08T17:54:39.9245625+01:00",
+    "NumeroCuenta": 1000,
+    "Cantidad": 1000.0
+  },
+  {
+    "FechaTransaccion": "2023-11-08T17:55:23.3473987+01:00",
+    "NumeroCuenta": 1000,
+    "Cantidad": 1000.0
   }
 ]
