@@ -1,0 +1,6 @@
+D:\Clase\desarrollo-servidor\bankApp\bin\Release\net7.0\publish\bankApp.exe
+D:\Clase\desarrollo-servidor\bankApp\bin\Release\net7.0\publish\bankApp.dll
+D:\Clase\desarrollo-servidor\bankApp\bin\Release\net7.0\publish\bankApp.deps.json
+D:\Clase\desarrollo-servidor\bankApp\bin\Release\net7.0\publish\bankApp.runtimeconfig.json
+D:\Clase\desarrollo-servidor\bankApp\bin\Release\net7.0\publish\bankApp.pdb
+D:\Clase\desarrollo-servidor\bankApp\bin\Release\net7.0\publish\Newtonsoft.Json.dll

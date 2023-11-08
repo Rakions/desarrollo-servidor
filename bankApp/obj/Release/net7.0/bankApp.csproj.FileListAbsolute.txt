@@ -1,0 +1,17 @@
+D:\Clase\desarrollo-servidor\bankApp\bin\Release\net7.0\bankApp.exe
+D:\Clase\desarrollo-servidor\bankApp\bin\Release\net7.0\bankApp.deps.json
+D:\Clase\desarrollo-servidor\bankApp\bin\Release\net7.0\bankApp.runtimeconfig.json
+D:\Clase\desarrollo-servidor\bankApp\bin\Release\net7.0\bankApp.dll
+D:\Clase\desarrollo-servidor\bankApp\bin\Release\net7.0\bankApp.pdb
+D:\Clase\desarrollo-servidor\bankApp\bin\Release\net7.0\Newtonsoft.Json.dll
+D:\Clase\desarrollo-servidor\bankApp\obj\Release\net7.0\bankApp.csproj.AssemblyReference.cache
+D:\Clase\desarrollo-servidor\bankApp\obj\Release\net7.0\bankApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clase\desarrollo-servidor\bankApp\obj\Release\net7.0\bankApp.AssemblyInfoInputs.cache
+D:\Clase\desarrollo-servidor\bankApp\obj\Release\net7.0\bankApp.AssemblyInfo.cs
+D:\Clase\desarrollo-servidor\bankApp\obj\Release\net7.0\bankApp.csproj.CoreCompileInputs.cache
+D:\Clase\desarrollo-servidor\bankApp\obj\Release\net7.0\bankApp.csproj.CopyComplete
+D:\Clase\desarrollo-servidor\bankApp\obj\Release\net7.0\bankApp.dll
+D:\Clase\desarrollo-servidor\bankApp\obj\Release\net7.0\refint\bankApp.dll
+D:\Clase\desarrollo-servidor\bankApp\obj\Release\net7.0\bankApp.pdb
+D:\Clase\desarrollo-servidor\bankApp\obj\Release\net7.0\bankApp.genruntimeconfig.cache
+D:\Clase\desarrollo-servidor\bankApp\obj\Release\net7.0\ref\bankApp.dll
