@@ -1,0 +1,17 @@
+[
+  {
+    "FechaTransaccion": "2023-11-08T17:48:13.6404532+01:00",
+    "NumeroCuenta": 1000,
+    "Cantidad": 1000.0
+  },
+  {
+    "FechaTransaccion": "2023-11-08T17:48:13.6404532+01:00",
+    "NumeroCuenta": 1000,
+    "Cantidad": 1000.0
+  },
+  {
+    "FechaTransaccion": "2023-11-08T17:48:19.7294481+01:00",
+    "NumeroCuenta": 1000,
+    "Cantidad": -300.0
+  }
+]
